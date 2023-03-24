@@ -58,5 +58,6 @@ public class Main {
         String op = in.next();
 
         calc(a, b, op);
+        in.close();
     }
 }
